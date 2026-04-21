@@ -45,8 +45,8 @@ Thus the program to print even numbers ranging from M to N (including M and N va
 
 
 # EX-07-Nested-loop
-## Name : A SATHYA NARAYANAN
-## Register Number : 25016804
+## Name : N.Surya
+## Register Number : 212225040442
 
 ## AIM:
 
@@ -90,8 +90,8 @@ Thus the program to print the given triangular pattern using loop has been execu
  
 
 # EX-08-Functions
-## Name : A SATHYA NARAYANAN
-## Register Number : 25016804
+## Name : N.Surya
+## Register Number : 212225040442
 
 ## AIM:
 
@@ -143,8 +143,8 @@ Thus the program to perform addition and subtraction of two numbers using functi
  
 
 # EX-09-Use For Loop
-## Name : A SATHYA NARAYANAN
-## Register Number : 25016804
+## Name : N.Surya
+## Register Number : 212225040442
 
 ## AIM:
 
@@ -188,8 +188,8 @@ Thus the program to find the sum of odd digits using for loop has been executed 
 
 
 # EX – 10 - Factorial of a Number Using a Function
-## Name : A SATHYA NARAYANAN
-## Register Number : 25016804
+## Name : N.Surya
+## Register Number : 212225040442
 ## AIM:
 To write a C program that calculates the factorial of a given number using a user-defined function.
 ## ALGORITHM:
